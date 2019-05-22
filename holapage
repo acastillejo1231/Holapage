@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<style>
+body {
+ background-color: #d24dff;
+}
+</style>
+<title>Hola</title>
+</head>
+<body>
+<h1 style="text-align: center;"><strong>Holapage</strong></h1>
+</br>
+<p style="text-align: center;">Saldutacions, viatger</p>
+<p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Lol_LOL.png
+
+" width="300" height="300"/></p>
+</br>
+<style>
+.btr{background-color:white;color:red;}
+</style>
+<p style="text-align: center;"><button class="bt1 btr" onclick="javascript:alert('Lol, it works');">Click</button></p>
+</br>
+<p style="text-align: center;"><button class="bt1 btr" onclick="javascript:void(window.open('https://google.com'));">Google</br><img src="https://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-fade-ss-1920.jpg" width="50" height="30"/></br></button></p>
+</br>
+</br>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qw4SyZNG-0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</body>
+
+
+Document de text nou.html
+
+
